@@ -14,7 +14,7 @@ Este proyecto es una aplicación móvil creada en Kotlin utilizando Jetpack Comp
 Clona el repositorio o descarga los archivos del proyecto en tu máquina local.
 
 ```
-git clone <url del repo>
+git clone https://github.com/gabo748/compartir_imagenes_CL100421.git
 
 ```
 
@@ -60,5 +60,10 @@ Necesario para leer imágenes en versiones más antiguas de Android.
 
 ```
 
+
 Al iniciar la aplicación, se solicitan los permisos de cámara y acceso a la galería cuando el usuario interactúa con las funcionalidades correspondientes.
 La aplicación usa ``ActivityResultContracts.RequestPermission`` para gestionar los permisos en tiempo de ejecución.
+
+## VIDEO DE PRUEBA
+
+https://github.com/user-attachments/assets/635c0268-128c-412d-82c0-1f2ffd93f819
